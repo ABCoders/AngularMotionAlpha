@@ -12,7 +12,7 @@ import java.awt.*;
 import javax.swing.*;
 
 public class AngularMotionGUITest extends JPanel {
-	String[] variables = new String[] { "var1", "var2", "var3" };
+	String[] variables = new String[] {"var1", "var2", "var3"};
 
 	JPanel animationPane = new JPanel();
 	JPanel answerPane = new JPanel();
